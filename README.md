@@ -38,6 +38,7 @@ It was a pleasure to read your code mate! Keep up your awesome work.
 ## Extra features added by [Maja Alin](https://github.com/majaalin)
 - As a user you should be able to edit and delete comments on posts
 - As a user you should be able to search for other users
+Click [here](https://github.com/AltDom/wu19-picturethis/pull/3) to see the full pull request.
 
 ## License
 This assignment is licensed under the MIT License. You can get all the details [here](https://github.com/AltDom/wu19-picturethis/blob/master/LICENSE). 
